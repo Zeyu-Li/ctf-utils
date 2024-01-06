@@ -6,7 +6,7 @@ LETTERS = string.ascii_uppercase
 """
 util function to convert char key to int
 """
-def convert_to_int(key):
+def convert_to_int(key) -> int:
     if type(key) == str:
         # assume it's a one letter code for offset
         int_key = key[0].upper()
