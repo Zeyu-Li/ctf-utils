@@ -6,10 +6,10 @@
 
 ### Self Made
 
-* Caeser Cipher
-* Vigenere Cipher
-* Affline Cipher
-* Columnar Transposition Cipher
+* Caeser Cipher (+ cracker)
+* Vigenere Cipher (+ cracker)
+* Affline Cipher (+ cracker)
+* Columnar Transposition Cipher (+ cracker)
 * Substitution Cipher
 * Word Substitution Cipher
 
