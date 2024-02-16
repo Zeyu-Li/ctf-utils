@@ -3,6 +3,7 @@
 ## Crypto Tools
 
 * https://www.dcode.fr/en
+* https://www.101computing.net/frequency-analysis/
 
 ### Self Made
 
@@ -12,6 +13,12 @@
 * Columnar Transposition Cipher (+ cracker)
 * Substitution Cipher
 * Word Substitution Cipher
+
+### Info
+
+Kasiski examinations can be stopped with anti-kasiski processing to reduce repeat words by added a character like `-`
+
+After finding the key length use https://www.dcode.fr/vigenere-cipher
 
 ## License
 
